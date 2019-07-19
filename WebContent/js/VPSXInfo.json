@@ -1,0 +1,9 @@
+{
+"VPSX":[
+{"Name":"usvpsxprt01.ahe.boulder.ibm.com","SDC":"VPSXAmericas","id":713, "Customer":"ECPrint"},
+{"Name":"ukvpsxprt01.portsmouth.uk.ibm.com","SDC":"VPSXEMEA","id":714, "Customer":"ECPrint"},
+{"Name":"jpvpsxprt01.jp.ibm.com","SDC":"VPSXJapan","id":724, "Customer":"ECPrint"},
+{"Name":"auvpsxprt01.au.ibm.com","SDC":"VPSXAP","id":731, "Customer":"ECPrint"},
+{"Name":"invpsxprt01.in.ibm.com","SDC":"VPSXIndia","id":735, "Customer":"ECPrint"},
+{"Name":"cnvpsxprt01.cn.ibm.com","SDC":"VPSXChina","id":740, "Customer":"ECPrint"}
+]}
