@@ -1,0 +1,1 @@
+<%@page import="com.ibm.aurora.*,com.ibm.aurora.bhvr.*,tools.print.lib.*,tools.print.printer.*,java.util.*,java.io.*,java.net.*,java.sql.*" %><%@ page language="java" buffer="10kb" isThreadSafe="true" autoFlush="true" %>Printer install logged succesfully

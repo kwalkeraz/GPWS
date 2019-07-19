@@ -1,0 +1,3 @@
+ <footer class="footer"><div class="footer__links"><a href="https://w3.ibm.com/bluepages/profile.html?email=allprtsp@us.ibm.com" target="_blank" class="footer__links__link">Contact</a><a href="http://w3.ibm.com/w3/info_terms_of_use.html" target="_blank" class="footer__links__link">Terms of Use</a><a href="http://w3.ibm.com/able/index.html" target="_blank" class="footer__links__link">Accessibility</a><a href="http://w3.ibm.com/ibm/documents/corpdocweb.nsf/ContentDocsByTitle/Business+Conduct+Guidelines" target="_blank" class="footer__links__link">Business Conduct Guidelines</a></div> 
+<p class="footer__powered-by">
+  </p></footer>
